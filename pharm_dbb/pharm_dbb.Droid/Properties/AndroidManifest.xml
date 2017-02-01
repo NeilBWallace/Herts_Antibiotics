@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="herts.antibiotics" android:versionCode="16" android:installLocation="auto" android:versionName="16">
+	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
+	<application android:label="Hertfordshire Health Economy Antibiotics Guidelines" android:icon="@drawable/icon"></application>
+</manifest>
