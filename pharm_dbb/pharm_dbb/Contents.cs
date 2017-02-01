@@ -80,7 +80,7 @@ namespace pharm_dbb
 
         public Contents()
         {
-
+            //test1
             var s = new Label { HorizontalTextAlignment = Xamarin.Forms.TextAlignment.Center, Text = "Hertfordshire Primary Care", TextColor = Color.FromHex("1760ae"), Font = Font.SystemFontOfSize(20, FontAttributes.Bold) };
 
          
