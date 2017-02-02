@@ -415,7 +415,7 @@ namespace pharm_dbb
                 Area = "Lower Respiratory",
                 Infection = "Acute exacerbation of COPD",
                 Comments = "Treat exacerbations promptly with antibiotics if purulent sputum or clinical signs of pneumonia. Risk factors for antibiotic resistant organisms include co-morbidities, severe COPD, frequent exacerbations or antibiotic treatment within last 3 months. Oral steroids may be considered in conjunction with antibiotics where increased breathlessness interferes with the activities of daily living.",
-                FirstLine = "Amoxicillin 500mg TDS or Doxycycline 200mg stat then 100mg OD for 5 days",
+                FirstLine = "Amoxicillin 500mg TDS for 5 days or Doxycycline 200mg stat then 100mg OD for 5 days",
                 SecondLine = "Clarithromycin 500mg BD or Co-amoxiclav♣ 625mg TDS(only if patient has antibiotic resistance factors such as comorbid disease, severe COPD, frequent exacerbations or antibiotic use in the last 3 months) for 5 days"
             });
             pages.Add(new Pages
