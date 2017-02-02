@@ -54,7 +54,7 @@
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
     <MtouchArch>ARMv7, ARM64</MtouchArch>
-    <CodesignKey>iPhone Developer: Neil wallace (FL65277PZ5)</CodesignKey>
+    <CodesignKey>iPhone Distribution: Neil wallace (L4324945KU)</CodesignKey>
     <MtouchDebug>true</MtouchDebug>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <CodesignProvision>f5e67eeb-3d0e-413e-8357-999bba32a71e</CodesignProvision>

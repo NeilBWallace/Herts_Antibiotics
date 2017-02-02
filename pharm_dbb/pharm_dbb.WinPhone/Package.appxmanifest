@@ -3,7 +3,7 @@
   <Identity Name="HBLICTSharedServices.HertsAntibioticsGuidelines" Publisher="CN=E7FF95A5-D4ED-43E2-9C54-AB44BC6752CC" Version="1.1.0.0" />
   <mp:PhoneIdentity PhoneProductId="cf6b42e2-156b-45ca-bbb3-5936366ad0ed" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>HertsAntibioticsGuidelines</DisplayName>
+    <DisplayName>Herts Antibiotics Guideline</DisplayName>
     <PublisherDisplayName>HBL ICT Shared Services</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -16,7 +16,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="FPCL.Windows8.WindowsPhone.App">
-      <m3:VisualElements DisplayName="Herts Antibiotics" Square150x150Logo="Assets\Logo.png" Square44x44Logo="Assets\SmallLogo.png" Description="Herts Antibiotics" ForegroundText="light" BackgroundColor="transparent">
+      <m3:VisualElements DisplayName="Herts Antibiotics Guideline" Square150x150Logo="Assets\Logo.png" Square44x44Logo="Assets\SmallLogo.png" Description="Herts Antibiotics Guidelines" ForegroundText="light" BackgroundColor="transparent">
         <m3:DefaultTile Wide310x150Logo="Assets\WideLogo.png" Square71x71Logo="Assets\Square71x71Logo.png">
         </m3:DefaultTile>
         <m3:SplashScreen Image="Assets\SplashScreen.png" />
